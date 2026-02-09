@@ -1,0 +1,7 @@
+{
+  "name": "Copy of LeakWatch Genesis",
+  "description": "An elite personal intelligence and deep-web leak detection platform with advanced forensic reporting and remediation protocols.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
